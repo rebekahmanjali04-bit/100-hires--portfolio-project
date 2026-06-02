@@ -26,3 +26,16 @@ I learned how to create a repository and edit files using GitHub documentation a
 ## Current Status
 
 Repository successfully created and README file updated.
+## Issues Encountered
+
+### Issue 1
+I had never used GitHub before.
+
+### Solution
+Created a repository and learned how to edit and commit changes directly on GitHub.
+
+### Issue 2
+I had difficulty locating and installing the Claude Code and Codex extensions in Cursor.
+
+### Solution
+Researched Cursor documentation and explored the extension marketplace to understand how extensions are managed.
