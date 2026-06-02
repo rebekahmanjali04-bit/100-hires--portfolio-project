@@ -1,5 +1,5 @@
 # 100-hires--portfolio-project
-# 100Hires Portfolio Project
+
 
 ## Tools Installed
 
@@ -26,10 +26,7 @@ I learned how to create a repository and edit files using GitHub documentation a
 ## Current Status
 
 Repository successfully created and README file updated.
-## Issues Encountered
 
-### Issue 1
-I had never used GitHub before.
 
 ### Solution
 Created a repository and learned how to edit and commit changes directly on GitHub.
@@ -39,3 +36,8 @@ I had difficulty locating and installing the Claude Code and Codex extensions in
 
 ### Solution
 Researched Cursor documentation and explored the extension marketplace to understand how extensions are managed.
+## Additional Notes
+
+I searched the current Cursor plugin marketplace for the Claude Code and Codex add-ons mentioned in the instructions.
+
+The exact add-ons were not available in the version of Cursor I installed. I explored the plugin marketplace and settings to investigate available integrations and understand how plugin management works in Cursor.
