@@ -41,3 +41,6 @@ Researched Cursor documentation and explored the extension marketplace to unders
 I searched the current Cursor plugin marketplace for the Claude Code and Codex add-ons mentioned in the instructions.
 
 The exact add-ons were not available in the version of Cursor I installed. I explored the plugin marketplace and settings to investigate available integrations and understand how plugin management works in Cursor.
+ Opened a project folder in Cursor
+ Explored the Cursor plugin marketplace
+ Investigated availability of Claude Code and Codex add-ons
